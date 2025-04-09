@@ -1,6 +1,6 @@
 This notebook demonstrates a step-by-step process of loading, cleaning, and preparing student performance data using Pandas. The dataset, retrieved from an online source, contains individual scores in Mathematics, Reading, and Writing.
 
-In this project, i:
+In this project, I :
 
 Calculate each student's Total Score and Percentage.
 Add a new column for status tracking.
